@@ -1,0 +1,2 @@
+# TODO APP
+This is a todo list app that is built to help users schedule and plan their activites of the day. it was built with Html, Css and JavaScript. i am still learning javaScript tho and with time i will be a pro. 
